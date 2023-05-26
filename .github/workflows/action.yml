@@ -9,4 +9,4 @@ jobs:
   say_hello:
     runs-on: ubuntu-latest
     steps:
-      - run echo "Hola mundo"
+      - run: echo "Hola mundo"
